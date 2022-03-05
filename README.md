@@ -63,12 +63,12 @@ One of the challenges I faced while working on this game was determining where e
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/514e57794f6543e0bd2dec9637d09450)
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Winifred Rex]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
